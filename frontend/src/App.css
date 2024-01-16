@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'BubbleboddyL';
+  src: url('./assets/Bubbleboddy-ExtraLightTrial.ttf') format('truetype'); /* Reemplaza 'ruta/a/tu/fuente.ttf' con la ruta de tu fuente */
+}
+
+@font-face {
+  font-family: 'BubbleboddyFR';
+  src: url('./assets/Bubbleboddy-FatTrial.ttf') format('truetype'); /* Reemplaza 'ruta/a/tu/fuente.ttf' con la ruta de tu fuente */
+}

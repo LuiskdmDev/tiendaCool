@@ -1,0 +1,48 @@
+.logoNavBar{
+    width: 7.5rem;
+}
+
+.colorAbajo{
+    width: 100dv;
+    height: 72.847px;
+    flex-shrink: 0;
+    background: linear-gradient(180deg, #C19BE1 0%, rgba(193, 155, 225, 0.00) 100%), #A8FFFF;
+}
+
+.logo-container {
+    position: absolute;
+    top: 10px; /* Ajusta la posición vertical según sea necesario */
+    left: 10px; /* Ajusta la posición horizontal según sea necesario */
+    z-index: 1; /* Asegura que esté encima de otros elementos */
+  }
+  
+.logoNavBar {
+    width: 7rem; /* Ajusta el tamaño del logo según sea necesario */
+    height: 7rem; /* Ajusta el tamaño del logo según sea necesario */
+    border-radius: 50%; /* Hace que la imagen tenga forma de círculo */
+    border: 3px solid #000000; /* Agrega un borde blanco al círculo */
+    background-color: white;
+  }
+
+.botonEspacio{
+    margin-left: auto;
+    margin-right: auto;
+    display: block; /* Asegura que ocupe todo el ancho disponible */
+  /* Otras propiedades si las necesitas */
+}
+
+.parteBotones{
+    margin-left: 8rem;
+}
+
+.titNav{
+    font-family: BubbleboddyFR;
+}
+
+.miniTitNav{
+    font-family: BubbleboddyL;
+}
+
+.inputNav::placeholder{
+    font-family: BubbleboddyL;
+}

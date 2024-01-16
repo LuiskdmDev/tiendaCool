@@ -1,0 +1,22 @@
+.tituloImagenUno{
+    flex-shrink: 0;
+    color: #87B0FE;
+    font-family: BubbleboddyFR;
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+
+.imagen1{
+    width: 100%; /* O ajusta el ancho según sea necesario */
+    max-width: 100%; /* Para asegurar que la imagen se ajuste al contenedor */
+    height: auto; /* Para mantener la relación de aspecto */
+    border-radius: 20px;
+}
+
+.coolKids{
+    color: #4A3199;
+    font-size: 40px;
+}
